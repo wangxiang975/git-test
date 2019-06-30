@@ -10,4 +10,8 @@ public class FirstClass {
         System.out.println("hello git pojo");
         System.out.println("hello git pojo");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
